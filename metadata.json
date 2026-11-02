@@ -1,0 +1,6 @@
+{
+  "name": "Trung tâm Trí Nhân - Cổng Bài Giảng & Thi Thử Toán",
+  "description": "Nền tảng đăng tải nội dung bài học Toán 10, Toán 11, Toán 12, Đề thi thử Giữa kỳ - Học kỳ và Đề thi thử Đánh giá Năng lực (ĐGNL).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
